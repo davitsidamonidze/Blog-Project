@@ -2,7 +2,7 @@ git init
 git add .
 git commit -m "Initial MERN blog app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/mern-blog-app.git
+git remote add origin https://github.com/davitsidamonidze
 git push -u origin main
 
 # MERN Blog Application
